@@ -12,6 +12,7 @@ The final animated gif is built with PIL and matplotlib
 
 
 
+
 Example: evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
 ![covid](covid.gif)
@@ -20,7 +21,7 @@ Example: evolution of the number of people hospitalized in French departments du
 
 ## Running the tests
 
-Run the demo-flight-tracking notebook to see how to build the Marrakesh-Rome example
+Run the demo-covid notebook to see how to build dataframes and visualize data on maps
 
 ## Built With
 
@@ -42,5 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 Thanks for the sharing of COVID-19 and geographical data:
+
 https://www.data.gouv.fr/fr/datasets/donnees-relatives-a-lepidemie-du-covid-19/
+
 https://www.data.gouv.fr/fr/datasets/contours-des-departements-francais-issus-d-openstreetmap/
