@@ -40,6 +40,7 @@ Run the demo-covid notebook to see how to build dataframes and visualize data on
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
 ## Acknowledgments
 
 Thanks for the sharing of COVID-19 and geographical data:
