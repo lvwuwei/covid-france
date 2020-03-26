@@ -13,10 +13,14 @@ The final animated gif is built with PIL and matplotlib
 
 
 
-Example: evolution of the number of people hospitalized in French departments due to COVID-19 infection
+Example: Evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
 ![covid](covid20200326-2.gif)
 
+
+Example: Focus on one French department (31 - Haute-Garonne)
+
+![hg](31.png)
 
 
 ## Running the tests
@@ -43,7 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Thanks for the sharing of COVID-19 and geographical data:
+Data are provided by the [French open data portal](https://www.data.gouv.fr/fr/). More information here:
 
 https://www.data.gouv.fr/fr/datasets/donnees-relatives-a-lepidemie-du-covid-19/
 
