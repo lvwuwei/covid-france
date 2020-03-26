@@ -15,7 +15,7 @@ The final animated gif is built with PIL and matplotlib
 
 Example: evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
-![covid](covid20200325.gif)
+![covid](covid20200326.gif)
 
 
 
