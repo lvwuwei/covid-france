@@ -17,10 +17,15 @@ Example: Evolution of the number of people hospitalized in French departments du
 
 ![covid](covid20200329.gif)
 
+Example: Evolution of hospitalizations in critical departments
+
+![topdeps](top10.png)
 
 Example: Focus on one French department (31 - Haute-Garonne)
 
 ![hg](31.png)
+
+
 
 
 ## Running the tests
