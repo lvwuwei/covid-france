@@ -23,7 +23,7 @@ Example: Evolution of hospitalizations in critical departments
 
 Example: Focus on one French department (31 - Haute-Garonne)
 
-![hg](31.png)
+![hg](31-20200329.png)
 
 
 
