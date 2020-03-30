@@ -30,7 +30,16 @@ Example: Focus on one French department (31 - Haute-Garonne)
 
 ## Running the tests
 
-Run the demo-covid notebook to see how to build dataframes and visualize data on maps
+Run the different notebooks to generate curves and map:
+
+* demo-covid: build the animated gif with the map of France
+
+* demo-stats: basic stats on COVID-19 data
+
+* demo-plot-alldepts: plot evolution curves of most critical departments
+
+* demo-31: plot the curve for a specific department (e.g. 31)
+
 
 
 ## Built With
