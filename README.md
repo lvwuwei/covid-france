@@ -1,4 +1,4 @@
-# COVID-19 evolution in French departments (Last update: 29/03/20)
+# COVID-19 evolution in French departments (Last update: 30/03/20)
 
 Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
@@ -8,22 +8,22 @@ Data are stored as [pandas](https://pandas.pydata.org/) / [GeoPandas](http://geo
 
 The map background is built with [contextily](https://github.com/darribas/contextily)
 
-The final animated gif is built with PIL and matplotlib
+The final animated gif is built with pillow and matplotlib
 
 
 
 
 Example: Evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
-![covid](covid20200329.gif)
+![covid](covid-20200330.gif)
 
 Example: Evolution of hospitalizations in critical departments
 
-![topdeps](top10.png)
+![topdeps](top10-20200330.png)
 
 Example: Focus on one French department (31 - Haute-Garonne)
 
-![hg](31-20200329.png)
+![hg](31-20200330.png)
 
 
 
@@ -32,6 +32,7 @@ Example: Focus on one French department (31 - Haute-Garonne)
 
 Run the demo-covid notebook to see how to build dataframes and visualize data on maps
 
+
 ## Built With
 
 * [pandas](https://pandas.pydata.org/) - Python Data Analysis Library
@@ -39,6 +40,15 @@ Run the demo-covid notebook to see how to build dataframes and visualize data on
 * [GeoPandas](http://geopandas.org/) - GeoPandas is an open source project which extends the datatypes used by pandas to allow spatial operations on geometric types. 
 
 * [contextily](https://github.com/darribas/contextily) - Context geo-tiles in Python
+
+
+## Versions
+
+Code executed with: Python 3.7.4, geopandas 0.6.1, pyproj 1.9.6 and pillow 6.2.0
+
+If you are using geopandas >= 0.7, you may have to modify CRS settings, see: https://geopandas.org/projections.html#upgrading-to-geopandas-0-7-with-pyproj-2-2-and-proj-6
+
+Create a folder named "img" at the root to save images.
 
 
 ## Authors
