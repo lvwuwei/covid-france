@@ -1,4 +1,4 @@
-# COVID-19 evolution in French departments (Last update: 13/04/20)
+# COVID-19 evolution in French departments (Last update: 16/04/20)
 
 Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
@@ -15,15 +15,15 @@ The final animated gif is built with pillow and matplotlib
 
 Example: Evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
-![covid](covid-20200413.gif)
+![covid](covid-20200416.gif)
 
 Example: Evolution of hospitalizations in critical departments
 
-![topdeps](top10-20200413.png)
+![topdeps](top10-20200416.png)
 
 Example: Focus on one French department (31 - Haute-Garonne)
 
-![hg](31-20200413.png)
+![hg](31-20200416.png)
 
 
 
